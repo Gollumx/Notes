@@ -4,8 +4,7 @@ type:: logseq theme
 - # H1 Title
   -
 - ## H2 Sub Title
-- ### H3 Section Title
-  #### H4 Section Sub Title
+- ### H3 Section Title#### H4 Section Sub Title
   ##### H5 mini title
   - `Inline Code` ^^Highlighted^^ Normal Text,  _italic texts_ and tag #[[Logseq theme]]
   - Some text that will be referenced
