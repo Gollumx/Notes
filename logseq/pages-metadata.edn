@@ -1,18 +1,12 @@
 [{:block/name "5-陈洁：虚假陈述民事赔偿制度的新发展理念及其规范实现 - 好文@annote",
   :block/created-at 1649696165950,
   :block/updated-at 1649696165950}
- {:block/name "[[股权转让]]协议不适用于分期[[买卖合同]]",
-  :block/created-at 1649751223002,
-  :block/updated-at 1649751223002}
- {:block/name "_ [[[[股权转让]]协议不适用于分期[[买卖合同]]]]",
-  :block/created-at 1649747605628,
-  :block/updated-at 1649751242565}
  {:block/name "a",
   :block/created-at 1649693905136,
   :block/updated-at 1649693905136}
  {:block/name "apr 12th, 2022",
   :block/created-at 1649693703485,
-  :block/updated-at 1649751309991}
+  :block/updated-at 1649768043583}
  {:block/name "b",
   :block/created-at 1649693905136,
   :block/updated-at 1649693905136}
@@ -64,6 +58,12 @@
  {:block/name "买卖合同",
   :block/created-at 1649736725435,
   :block/updated-at 1649736725435}
+ {:block/name "商人确认函",
+  :block/created-at 1649761235860,
+  :block/updated-at 1649761235860}
+ {:block/name "商行为",
+  :block/created-at 1649758274660,
+  :block/updated-at 1649758274660}
  {:block/name "案例分析",
   :block/created-at 1649736179970,
   :block/updated-at 1649736179970}
@@ -77,5 +77,8 @@
   :block/created-at 1649750446741,
   :block/updated-at 1649750446741}
  {:block/name "股权转让",
-  :block/created-at 1649736725438, 
-  :block/updated-at 1649736725438}]
+  :block/created-at 1649736725438,
+  :block/updated-at 1649736725438}
+ {:block/name "营业转让",
+  :block/created-at 1649766221789, 
+  :block/updated-at 1649766221789}]
