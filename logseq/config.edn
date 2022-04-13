@@ -48,9 +48,9 @@
  ;; If `:sidebar` is not set, sidebar will be hidden
  ;; Example:
  ;; 1. Setup page "Changelog" as home page and "Contents" in sidebar
-:default-home {:page "Changelog", :sidebar "Contents"}
+ ;;:default-home {:page "Changelog", :sidebar "Contents"}
  ;; 2. Setup page "Jun 3rd, 2021" as home page without sidebar
- ;; :default-home {:page "Jun 3rd, 2021"}
+ :default-home {:page "Contents"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
 
