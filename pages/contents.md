@@ -1,8 +1,10 @@
 - # Projects
+  collapsed:: true
 	- [[案例分析]]
 	- [[课堂笔记]]
 	-
 - # Areas
+  collapsed:: true
 	- [[民法]]
 		- [[所有权变动]]
 		- [[买卖契约]]
@@ -17,8 +19,10 @@
 		- [[股权的性质]]
 	-
 - # Recent
+  collapsed:: true
 	- [[案例分析大赛]]
 - # Archieve
+  collapsed:: true
 	- [[《法学方法论》]]
 - [[PDF集散地]]
 -
