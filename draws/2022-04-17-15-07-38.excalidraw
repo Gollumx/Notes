@@ -59,8 +59,8 @@
     },
     {
       "type": "rectangle",
-      "version": 196,
-      "versionNonce": 1922866926,
+      "version": 205,
+      "versionNonce": 685266798,
       "isDeleted": false,
       "id": "gNQGKMNSeMV4k5pyF31kB",
       "fillStyle": "hachure",
@@ -69,8 +69,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 396.03125,
-      "y": 171.55078125,
+      "x": 400,
+      "y": 160,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 164.7890625,
@@ -80,13 +80,14 @@
       "strokeSharpness": "sharp",
       "boundElementIds": [
         "_rHM9pRRZiVaK8V0sEmIW",
-        "jzuj247h8aGQwX-LCT4pR"
+        "jzuj247h8aGQwX-LCT4pR",
+        "qcOP9p58yeqkcrRA1XdTN"
       ]
     },
     {
       "type": "text",
-      "version": 15,
-      "versionNonce": 529404782,
+      "version": 16,
+      "versionNonce": 610169586,
       "isDeleted": false,
       "id": "xmJk2eWCG9kML_RDxf_9c",
       "fillStyle": "hachure",
@@ -95,8 +96,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 442.43359375,
-      "y": 213.67578125,
+      "x": 440,
+      "y": 220,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 80,
@@ -143,8 +144,8 @@
     },
     {
       "type": "arrow",
-      "version": 55,
-      "versionNonce": 643125294,
+      "version": 297,
+      "versionNonce": 1419251374,
       "isDeleted": false,
       "id": "_rHM9pRRZiVaK8V0sEmIW",
       "fillStyle": "hachure",
@@ -154,11 +155,11 @@
       "opacity": 100,
       "angle": 0,
       "x": 238.4375,
-      "y": 225.12109375,
+      "y": 221.83157072793819,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 147.91796875,
-      "height": 3.06640625,
+      "width": 151.88671875000006,
+      "height": 2.0376717456204005,
       "seed": 1696297138,
       "groupIds": [],
       "strokeSharpness": "round",
@@ -182,15 +183,15 @@
           0
         ],
         [
-          147.91796875,
-          3.06640625
+          151.88671875000006,
+          -2.0376717456204005
         ]
       ]
     },
     {
       "type": "arrow",
-      "version": 56,
-      "versionNonce": 1526268782,
+      "version": 298,
+      "versionNonce": 1212025070,
       "isDeleted": false,
       "id": "jzuj247h8aGQwX-LCT4pR",
       "fillStyle": "hachure",
@@ -199,12 +200,12 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 469.9375,
-      "y": 305.614990234375,
+      "x": 472.98514706186324,
+      "y": 294.064208984375,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
-      "width": 3.328125,
-      "height": 145.3046875,
+      "width": 1.4320990722020497,
+      "height": 156.85546875,
       "seed": 1027722738,
       "groupIds": [],
       "strokeSharpness": "round",
@@ -228,8 +229,8 @@
           0
         ],
         [
-          3.328125,
-          145.3046875
+          1.4320990722020497,
+          156.85546875
         ]
       ]
     },
@@ -344,6 +345,77 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "baseline": 21
+    },
+    {
+      "id": "zhP4NhfJcVSf6OAbLCNNy",
+      "type": "text",
+      "x": 260.765625,
+      "y": 234.0950927734375,
+      "width": 140,
+      "height": 56,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1778596530,
+      "version": 43,
+      "versionNonce": 1001400178,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "text": "为购买设备\n设备上设立抵押",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 49
+    },
+    {
+      "id": "qcOP9p58yeqkcrRA1XdTN",
+      "type": "arrow",
+      "x": 580,
+      "y": 240,
+      "width": 240,
+      "height": 0,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 272281714,
+      "version": 15,
+      "versionNonce": 468518066,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          240,
+          0
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "gNQGKMNSeMV4k5pyF31kB",
+        "focus": 0.3353763896586575,
+        "gap": 15.2109375
+      },
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
     }
   ],
   "appState": {
