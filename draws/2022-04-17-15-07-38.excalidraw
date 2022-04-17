@@ -485,9 +485,9 @@
       "id": "6E5M3UJ-Lgfc5henVW0a8",
       "type": "arrow",
       "x": 780,
-      "y": 360,
+      "y": 354.9066514578129,
       "width": 0,
-      "height": 100,
+      "height": 104.09334854218707,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
@@ -499,8 +499,8 @@
       "groupIds": [],
       "strokeSharpness": "round",
       "seed": 1476316974,
-      "version": 10,
-      "versionNonce": 506698162,
+      "version": 41,
+      "versionNonce": 879367598,
       "isDeleted": false,
       "boundElementIds": null,
       "points": [
@@ -510,26 +510,30 @@
         ],
         [
           0,
-          100
+          104.09334854218707
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "sBFfPMtCw1xDp7QZcfGeW",
-        "focus": 0.09090909090909091,
-        "gap": 20.323547467722918
+        "gap": 15.242660600792188,
+        "focus": 0.09090909090909091
       },
-      "endBinding": null,
+      "endBinding": {
+        "elementId": "kU4aN0-KP-P2X2lZKPm5m",
+        "gap": 1,
+        "focus": -0.2727272727272727
+      },
       "startArrowhead": null,
       "endArrowhead": "arrow"
     },
     {
       "id": "kU4aN0-KP-P2X2lZKPm5m",
       "type": "rectangle",
-      "x": 720,
+      "x": 700,
       "y": 460,
       "width": 220,
-      "height": 160,
+      "height": 120,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
@@ -541,10 +545,70 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "seed": 939841010,
-      "version": 19,
-      "versionNonce": 1743844786,
+      "version": 29,
+      "versionNonce": 1500193710,
       "isDeleted": false,
-      "boundElementIds": null
+      "boundElementIds": [
+        "6E5M3UJ-Lgfc5henVW0a8"
+      ]
+    },
+    {
+      "id": "Ai1zqzLphBfMy_7YTkO5Q",
+      "type": "text",
+      "x": 773.0045572916669,
+      "y": 517.4998236762153,
+      "width": 80,
+      "height": 28,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 791536690,
+      "version": 20,
+      "versionNonce": 775910446,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "text": "上成公司",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 21
+    },
+    {
+      "id": "YnG0qu_3BrfesaMBv1zJe",
+      "type": "text",
+      "x": 833.1803385416669,
+      "y": 386.2302924262154,
+      "width": 80,
+      "height": 28,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1858317746,
+      "version": 32,
+      "versionNonce": 96098350,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "text": "设备买卖",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 21
     }
   ],
   "appState": {
