@@ -289,8 +289,8 @@
     },
     {
       "type": "text",
-      "version": 48,
-      "versionNonce": 1917845746,
+      "version": 71,
+      "versionNonce": 660732078,
       "isDeleted": false,
       "id": "idBNF4HEwg8yZdhOP_W0r",
       "fillStyle": "hachure",
@@ -299,8 +299,8 @@
       "roughness": 1,
       "opacity": 100,
       "angle": 0,
-      "x": 355.203125,
-      "y": 325.564208984375,
+      "x": 340,
+      "y": 360,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
       "width": 280,
@@ -315,10 +315,39 @@
       "baseline": 21,
       "textAlign": "left",
       "verticalAlign": "top"
+    },
+    {
+      "id": "KL3kNRVQd4CtLsyELOIZW",
+      "type": "text",
+      "x": 267.203125,
+      "y": 191.4075927734375,
+      "width": 80,
+      "height": 28,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1719805230,
+      "version": 15,
+      "versionNonce": 1900438766,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "text": "贷款协议",
+      "fontSize": 20,
+      "fontFamily": 1,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "baseline": 21
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
     "viewBackgroundColor": "#FFF"
   }
 }
