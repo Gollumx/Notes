@@ -19,7 +19,6 @@
 		- [[股权的性质]]
 	-
 - # Recent
-  collapsed:: true
 	- [[案例分析大赛]]
 - # Archieve
   collapsed:: true
