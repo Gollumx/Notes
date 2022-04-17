@@ -4,7 +4,6 @@
 	- [[课堂笔记]]
 	-
 - # Areas
-  collapsed:: true
 	- [[民法]]
 		- [[所有权变动]]
 		- [[买卖契约]]
@@ -18,7 +17,7 @@
 		- [[股权转让]]
 		- [[股权的性质]]
 	-
-- # Recent
+- # Resources
 	- [[案例分析大赛]]
 - # Archieve
   collapsed:: true
