@@ -59,8 +59,8 @@
     },
     {
       "type": "rectangle",
-      "version": 226,
-      "versionNonce": 1827847474,
+      "version": 228,
+      "versionNonce": 1367868014,
       "isDeleted": false,
       "id": "gNQGKMNSeMV4k5pyF31kB",
       "fillStyle": "hachure",
@@ -82,7 +82,9 @@
         "_rHM9pRRZiVaK8V0sEmIW",
         "jzuj247h8aGQwX-LCT4pR",
         "LmE7RAl9EsiRi2mN3TOp-",
-        "TQ01fxcUzTWa5PommudsI"
+        "TQ01fxcUzTWa5PommudsI",
+        "fWksb_TDmBtK3PpLWF0hr",
+        "Cihi_jq6KUcf-e-SMKyut"
       ]
     },
     {
@@ -378,12 +380,12 @@
       "baseline": 49
     },
     {
-      "id": "2fTsF4SVm9nvq4vVx_1Sc",
+      "id": "ivYxUhEoUxv8YEDjF42Pq",
       "type": "text",
-      "x": 722.046875,
-      "y": 207.3372802734375,
-      "width": 80,
-      "height": 28,
+      "x": 440,
+      "y": -40,
+      "width": 140,
+      "height": 56,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
@@ -394,25 +396,25 @@
       "opacity": 100,
       "groupIds": [],
       "strokeSharpness": "sharp",
-      "seed": 1580630766,
-      "version": 23,
-      "versionNonce": 2091196274,
+      "seed": 957481838,
+      "version": 127,
+      "versionNonce": 630931246,
       "isDeleted": false,
       "boundElementIds": null,
-      "text": "上成公司",
+      "text": "未完成货款支付\n未取走设备",
       "fontSize": 20,
       "fontFamily": 1,
       "textAlign": "left",
       "verticalAlign": "top",
-      "baseline": 21
+      "baseline": 49
     },
     {
-      "id": "TQ01fxcUzTWa5PommudsI",
+      "id": "Cihi_jq6KUcf-e-SMKyut",
       "type": "arrow",
       "x": 580,
       "y": 240,
-      "width": 0,
-      "height": 200,
+      "width": 100,
+      "height": 0,
       "angle": 0,
       "strokeColor": "#000000",
       "backgroundColor": "transparent",
@@ -423,9 +425,9 @@
       "opacity": 100,
       "groupIds": [],
       "strokeSharpness": "round",
-      "seed": 1987406578,
-      "version": 31,
-      "versionNonce": 512255726,
+      "seed": 69079730,
+      "version": 9,
+      "versionNonce": 1829644722,
       "isDeleted": false,
       "boundElementIds": null,
       "points": [
@@ -434,21 +436,17 @@
           0
         ],
         [
-          0,
-          200
+          100,
+          0
         ]
       ],
       "lastCommittedPoint": null,
       "startBinding": {
         "elementId": "gNQGKMNSeMV4k5pyF31kB",
-        "focus": -1.1846110083914094,
+        "focus": 0.0015322922439930887,
         "gap": 15.2109375
       },
-      "endBinding": {
-        "elementId": "VR5ikQMA7nmemahujzzwX",
-        "focus": 0.8525758427475656,
-        "gap": 13.923583984375
-      },
+      "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow"
     }
