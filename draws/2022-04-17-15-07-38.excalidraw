@@ -106,6 +106,68 @@
       "textAlign": "left",
       "verticalAlign": "top",
       "baseline": 21
+    },
+    {
+      "id": "Gllj5hU4-6UIdBPhZZjeU",
+      "type": "line",
+      "x": 234.42578125,
+      "y": 226.484375,
+      "width": 308.66015625,
+      "height": 211.53515625,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 250119218,
+      "version": 402,
+      "versionNonce": 861794798,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -2.96484375,
+          1.86328125
+        ],
+        [
+          100.59375,
+          27.32421875
+        ],
+        [
+          52.55078125,
+          74.42578125
+        ],
+        [
+          175.6875,
+          7.9609375
+        ],
+        [
+          115.8671875,
+          51.90234375
+        ],
+        [
+          -72.8515625,
+          68.82421875
+        ],
+        [
+          -132.97265625,
+          -137.109375
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null
     }
   ],
   "appState": {
