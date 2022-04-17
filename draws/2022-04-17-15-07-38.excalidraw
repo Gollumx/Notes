@@ -382,8 +382,8 @@
     {
       "id": "ivYxUhEoUxv8YEDjF42Pq",
       "type": "text",
-      "x": 440,
-      "y": -40,
+      "x": 720,
+      "y": 220,
       "width": 140,
       "height": 56,
       "angle": 0,
@@ -397,8 +397,8 @@
       "groupIds": [],
       "strokeSharpness": "sharp",
       "seed": 957481838,
-      "version": 127,
-      "versionNonce": 630931246,
+      "version": 142,
+      "versionNonce": 1330069810,
       "isDeleted": false,
       "boundElementIds": null,
       "text": "未完成货款支付\n未取走设备",
@@ -426,8 +426,8 @@
       "groupIds": [],
       "strokeSharpness": "round",
       "seed": 69079730,
-      "version": 9,
-      "versionNonce": 1829644722,
+      "version": 10,
+      "versionNonce": 333698994,
       "isDeleted": false,
       "boundElementIds": null,
       "points": [
@@ -446,9 +446,105 @@
         "focus": 0.0015322922439930887,
         "gap": 15.2109375
       },
+      "endBinding": {
+        "elementId": "sBFfPMtCw1xDp7QZcfGeW",
+        "focus": 0.1111111111111111,
+        "gap": 1
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow"
+    },
+    {
+      "id": "sBFfPMtCw1xDp7QZcfGeW",
+      "type": "ellipse",
+      "x": 680,
+      "y": 160,
+      "width": 220,
+      "height": 180,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 1824662386,
+      "version": 17,
+      "versionNonce": 1135710830,
+      "isDeleted": false,
+      "boundElementIds": [
+        "Cihi_jq6KUcf-e-SMKyut",
+        "XCizWNTt5KGyJuyY_nGKe",
+        "6E5M3UJ-Lgfc5henVW0a8"
+      ]
+    },
+    {
+      "id": "6E5M3UJ-Lgfc5henVW0a8",
+      "type": "arrow",
+      "x": 780,
+      "y": 360,
+      "width": 0,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "round",
+      "seed": 1476316974,
+      "version": 10,
+      "versionNonce": 506698162,
+      "isDeleted": false,
+      "boundElementIds": null,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0,
+          100
+        ]
+      ],
+      "lastCommittedPoint": null,
+      "startBinding": {
+        "elementId": "sBFfPMtCw1xDp7QZcfGeW",
+        "focus": 0.09090909090909091,
+        "gap": 20.323547467722918
+      },
       "endBinding": null,
       "startArrowhead": null,
       "endArrowhead": "arrow"
+    },
+    {
+      "id": "kU4aN0-KP-P2X2lZKPm5m",
+      "type": "rectangle",
+      "x": 720,
+      "y": 460,
+      "width": 220,
+      "height": 160,
+      "angle": 0,
+      "strokeColor": "#000000",
+      "backgroundColor": "transparent",
+      "fillStyle": "hachure",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "strokeSharpness": "sharp",
+      "seed": 939841010,
+      "version": 19,
+      "versionNonce": 1743844786,
+      "isDeleted": false,
+      "boundElementIds": null
     }
   ],
   "appState": {
