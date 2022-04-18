@@ -18,7 +18,7 @@
  ;; When creating the new journal page, the app will use your template if there is one.
  ;; You only need to input your template name here.
  :default-templates
- {:journals ""}
+ {:journals "每日笔记"}
 
  ;; Whether to enable hover on tooltip preview feature
  ;; Default is true, you can also toggle this via setting page
@@ -36,7 +36,7 @@
  ;; When :all-pages-public? true, export repo would export all pages within that repo.
  ;; Regardless of whether you've set any page to public or not.
  ;; Example:
- ;; :publishing/all-pages-public? true
+:publishing/all-pages-public? true
 
  ;; Specify default home page and sidebar status for Logseq
  ;; If not specified, Logseq default opens journals page on startup
@@ -50,7 +50,7 @@
  ;; 1. Setup page "Changelog" as home page and "Contents" in sidebar
  ;; :default-home {:page "Changelog", :sidebar "Contents"}
  ;; 2. Setup page "Jun 3rd, 2021" as home page without sidebar
- ;; :default-home {:page "Jun 3rd, 2021"}
+ ;; :default-home {:page "Contents", :sidebar "Journals"}
  ;; 3. Setup page "home" as home page with multiple pages in sidebar
  ;; :default-home {:page "home" :sidebar ["page a" "page b"]}
 
@@ -172,6 +172,10 @@
  :ref/default-open-blocks-level 2
 
  :ref/linked-references-collapsed-threshold 50
+ :favorites ["模版"]
+ :publishing/all-pages-public? true
+ :graph/settings {:orphan-pages? true}
+ :editor/logical-outdenting? true
 
  ;; any number between 0 and 1 (the greater it is the faster the changes of the next-interval of card reviews) (default 0.5)
  ;; :srs/learning-fraction 0.5
