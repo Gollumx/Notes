@@ -1,9 +1,11 @@
 - # Projects
+  collapsed:: true
 	- [[案例分析]]
 	- [[课堂笔记]]
 	- [[案例分析大赛]]
 	-
 - # Areas
+  collapsed:: true
 	- [[民法]]
 	  collapsed:: true
 		- [[所有权变动]]
@@ -23,10 +25,13 @@
 	- [[法学方法论]]
 	-
 - # Resources
+  collapsed:: true
 	- [[《担保物权研究》]]
 	- [[《法学方法论》]]
 	- [[5-陈洁：虚假陈述民事赔偿制度的新发展理念及其规范实现 - 好文@annote]]
 	- [[汤长龙诉周士海股权转让纠纷案]]
+	- [[公司法草案]]
+	-
 - # Archieve
   collapsed:: true
 	- [[《法学方法论》]]
