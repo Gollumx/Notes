@@ -1,5 +1,4 @@
 - # Projects
-  collapsed:: true
 	- [[案例分析]]
 	- [[课堂笔记]]
 	- [[案例分析大赛]]
