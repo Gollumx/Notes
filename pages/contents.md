@@ -4,8 +4,8 @@
 	- [[案例分析大赛]]
 	-
 - # Areas
-  collapsed:: true
 	- [[民法]]
+	  collapsed:: true
 		- [[所有权变动]]
 		- [[买卖契约]]
 		- [[公示]]
@@ -18,6 +18,7 @@
 			- [[担保物权]]
 		-
 	- 公司法
+	  collapsed:: true
 		- [[股权转让]]
 			- [[财务资助]]
 		- [[公司对外担保]]
@@ -26,7 +27,6 @@
 	- [[法学方法论]]
 	-
 - # Resources
-  collapsed:: true
 	- {{query #Resources}}
 	  query-table:: true
 	- [[《公司法草案》]]
