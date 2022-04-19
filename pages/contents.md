@@ -4,6 +4,7 @@
 	- [[案例分析大赛]]
 	-
 - # Areas
+  collapsed:: true
 	- [[民法]]
 		- [[所有权变动]]
 		- [[买卖契约]]
@@ -25,7 +26,9 @@
 	- [[法学方法论]]
 	-
 - # Resources
+  collapsed:: true
 	- {{query #Resources}}
+	  query-table:: true
 	- [[《公司法草案》]]
 	- [[《担保物权研究》]]
 	- [[《法学方法论》]]
