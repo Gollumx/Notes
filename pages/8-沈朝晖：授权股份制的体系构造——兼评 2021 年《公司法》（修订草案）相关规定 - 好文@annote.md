@@ -1,4 +1,4 @@
-File:: [沈朝晖：授权股份制的体系构造——兼评 2021 年《公司法》（修订草案）相关规定 | 好文](https://mp.weixin.qq.com/s?__biz=Mzg2NjIxMzEwMg==&mid=2247498103&idx=1&sn=dad7401cc11c33ebd97e87065a76cb69&chksm=ce4cf4f6f93b7de0fa4ef6165d8855d7a14e4737e55663d1acf9f666b2640fff6a30594ab116#rd)
+File:: [沈朝晖：授权股份制的体系构造——兼评 2021 年《公司法》（修订草案）相关规定](https://mp.weixin.qq.com/s?__biz=Mzg2NjIxMzEwMg==&mid=2247498103&idx=1&sn=dad7401cc11c33ebd97e87065a76cb69&chksm=ce4cf4f6f93b7de0fa4ef6165d8855d7a14e4737e55663d1acf9f666b2640fff6a30594ab116#rd)
 tags:: #[[Resources]] [[授权资本制]] 
 read date:: [[2022_04_20  ]]
 
