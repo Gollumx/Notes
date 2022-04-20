@@ -1,12 +1,36 @@
 [{:block/name "5-陈洁：虚假陈述民事赔偿制度的新发展理念及其规范实现 - 好文@annote",
   :block/created-at 1649696165950,
   :block/updated-at 1649696165950}
+ {:block/name "@《民法典》第641条(所有权保留买卖)评注",
+  :block/created-at 1650268750631,
+  :block/updated-at 1650280164557}
+ {:block/name "@《民法典》视野下所有权保留交易的法律构成",
+  :block/created-at 1650338720355,
+  :block/updated-at 1650422209895}
+ {:block/name "@价款债权抵押权的制度价值与解释",
+  :block/created-at 1650338836919,
+  :block/updated-at 1650365907222}
+ {:block/name "@公司关联担保三大类型的效力解释",
+  :block/created-at 1650248604892,
+  :block/updated-at 1650252230528}
+ {:block/name "@所有权保留买卖的体系性反思——担保构成、所有权构成及合同构成的纠葛与梳理",
+  :block/created-at 1650338761706,
+  :block/updated-at 1650365651695}
+ {:block/name "@民法典视阈下所有权保留的体系重构",
+  :block/created-at 1650338735874,
+  :block/updated-at 1650348495118}
+ {:block/name "@论条件的溯及效力与即时效力",
+  :block/created-at 1650338862509,
+  :block/updated-at 1650365836010}
  {:block/name "a",
   :block/created-at 1649693905136,
   :block/updated-at 1649693905136}
+ {:block/name "abstract",
+  :block/created-at 1650338720585,
+  :block/updated-at 1650338720585}
  {:block/name "apr 12th, 2022",
   :block/created-at 1649693703485,
-  :block/updated-at 1649773156918}
+  :block/updated-at 1650348584259}
  {:block/name "apr 13th, 2022",
   :block/created-at 1649779259444,
   :block/updated-at 1649868183738}
@@ -19,12 +43,15 @@
  {:block/name "apr 16th, 2022",
   :block/created-at 1650068396191,
   :block/updated-at 1650112684060}
- {:block/name "apr 17th, 2022",
-  :block/created-at 1650124842049,
-  :block/updated-at 1650124842049}
  {:block/name "apr 18th, 2022",
   :block/created-at 1650220952954,
-  :block/updated-at 1650247521230}
+  :block/updated-at 1650281904411}
+ {:block/name "apr 19th, 2022",
+  :block/created-at 1650297630532,
+  :block/updated-at 1650376956743}
+ {:block/name "apr 20th, 2022",
+  :block/created-at 1650384001529,
+  :block/updated-at 1650431618362}
  {:block/name "b",
   :block/created-at 1649693905136,
   :block/updated-at 1649693905136}
@@ -36,7 +63,7 @@
   :block/updated-at 1649693905136}
  {:block/name "contents",
   :block/created-at 1649693905136,
-  :block/updated-at 1650247065615}
+  :block/updated-at 1650348403050}
  {:block/name "doing",
   :block/created-at 1649693905136,
   :block/updated-at 1649693905136}
@@ -52,18 +79,31 @@
  {:block/name "favorites",
   :block/created-at 1649693905136,
   :block/updated-at 1649693905136}
+ {:block/name "hls__公司关联担保三大类型的效力解释_曾大鹏_1650248692903_0",
+  :block/created-at 1650249794544,
+  :block/updated-at 1650249794544}
  {:block/name "hls__公司法对比_1650246169451_0",
   :block/created-at 1650246591436,
   :block/updated-at 1650246591436}
- {:block/name "hls__担保物权研究（第二版）_(程啸_[程啸])_(z-lib.org)_1650183339788_0",
-  :block/created-at 1650184259635,
-  :block/updated-at 1650184259635}
+ {:block/name
+  "hls__周_2022_所有权保留买卖的体系性反思——担保构成、所有权构成及合同构成的纠葛与梳理_1650351821437_0",
+  :block/created-at 1650354821398,
+  :block/updated-at 1650361085947}
  {:block/name "hls__法学方法论_1649779440687_0",
   :block/created-at 1649808514600,
   :block/updated-at 1650093390662}
+ {:block/name "hls__王_2021_《民法典》第641条(所有权保留买卖)评注_1650268831309_0",
+  :block/created-at 1650268877441,
+  :block/updated-at 1650273883235}
+ {:block/name "hls__章_2022_民法典视阈下所有权保留的体系重构_1650348471881_0",
+  :block/created-at 1650421353990,
+  :block/updated-at 1650421353990}
  {:block/name "hls__第五届“东方獬豸杯”模拟法庭大赛初（复）赛案例_1650177588117_0",
   :block/created-at 1650196213671,
   :block/updated-at 1650196213671}
+ {:block/name "hls__高_2020_《民法典》视野下所有权保留交易的法律构成_1650339158907_0",
+  :block/created-at 1650339577322,
+  :block/updated-at 1650343193669}
  {:block/name "in-progress",
   :block/created-at 1649693905136,
   :block/updated-at 1649693905136}
@@ -76,6 +116,9 @@
  {:block/name "pdf集散地",
   :block/created-at 1649736649463,
   :block/updated-at 1649866168668}
+ {:block/name "resources",
+  :block/created-at 1650248605021,
+  :block/updated-at 1650248605021}
  {:block/name "simpread",
   :block/created-at 1649696165906,
   :block/updated-at 1649696165906}
@@ -99,7 +142,7 @@
   :block/updated-at 1650096455796}
  {:block/name "买卖合同",
   :block/created-at 1649736725435,
-  :block/updated-at 1650106442630}
+  :block/updated-at 1650348555062}
  {:block/name "买卖契约",
   :block/created-at 1650106442628,
   :block/updated-at 1650106442628}
@@ -115,30 +158,36 @@
  {:block/name "冒名行为",
   :block/created-at 1649932672354,
   :block/updated-at 1649932966820}
+ {:block/name "分期买卖合同",
+  :block/created-at 1650348555060,
+  :block/updated-at 1650348555060}
  {:block/name "合同类型的判断",
   :block/created-at 1650068170663,
   :block/updated-at 1650068170663}
- {:block/name "商人确认函",
-  :block/created-at 1649761235860,
-  :block/updated-at 1649761235860}
  {:block/name "商行为",
   :block/created-at 1649758274660,
   :block/updated-at 1649758274660}
  {:block/name "意思表示",
   :block/created-at 1649930733527,
   :block/updated-at 1649930733527}
+ {:block/name "所有权保留买卖",
+  :block/created-at 1650268750855,
+  :block/updated-at 1650348388624}
  {:block/name "所有权变动",
   :block/created-at 1650105931257,
   :block/updated-at 1650105931257}
  {:block/name "抵押权的设立",
   :block/created-at 1650184001211,
   :block/updated-at 1650184001211}
+ {:block/name "担保物权",
+  :block/created-at 1650348388622,
+  :block/updated-at 1650348388622}
  {:block/name "案例分析",
   :block/created-at 1649736179970,
   :block/updated-at 1649736179970}
  {:block/name "案例分析大赛",
   :block/created-at 1650125133885,
-  :block/updated-at 1650195599085}
+  :block/updated-at 1650433911030}
  {:block/name "模版",
   :block/created-at 1649695145934,
   :block/updated-at 1649868778153}
@@ -154,9 +203,6 @@
  {:block/name "法律行为",
   :block/created-at 1649845121241,
   :block/updated-at 1649845121241}
- {:block/name "索引",
-  :block/created-at 1649774990790,
-  :block/updated-at 1649774990790}
  {:block/name "股权的性质",
   :block/created-at 1649750446741,
   :block/updated-at 1649750446741}
