@@ -1,4 +1,5 @@
-# [沈朝晖：授权股份制的体系构造——兼评 2021 年《公司法》（修订草案）相关规定 | 好文](https://mp.weixin.qq.com/s?__biz=Mzg2NjIxMzEwMg==&mid=2247498103&idx=1&sn=dad7401cc11c33ebd97e87065a76cb69&chksm=ce4cf4f6f93b7de0fa4ef6165d8855d7a14e4737e55663d1acf9f666b2640fff6a30594ab116#rd)
+File:: [沈朝晖：授权股份制的体系构造——兼评 2021 年《公司法》（修订草案）相关规定 | 好文](https://mp.weixin.qq.com/s?__biz=Mzg2NjIxMzEwMg==&mid=2247498103&idx=1&sn=dad7401cc11c33ebd97e87065a76cb69&chksm=ce4cf4f6f93b7de0fa4ef6165d8855d7a14e4737e55663d1acf9f666b2640fff6a30594ab116#rd)
+
 - tags:: #[[Resources]]
 - read date: [[2022_04_20  ]]
 - desc: 2021年《公司法》（修订草案）引入了授权资本制，该制度称为“授权股份制”更为准确。相比法定资本制，授权股份制在公司治理效率、公司融资、并购、反并购、股份运作等方面具有制度比较优势，引入授权股份制是中国公司法现代化的必然趋势。
