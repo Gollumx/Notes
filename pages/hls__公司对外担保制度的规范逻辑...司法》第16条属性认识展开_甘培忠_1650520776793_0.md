@@ -54,3 +54,7 @@ title:: hls__公司对外担保制度的规范逻辑...司法》第16条属性�
   ls-type:: annotation
   hl-page:: 4
   id:: 6260fbf5-5ba9-461e-a30f-e34c4301fa12
+- ，有一派解释路径是从公司章程的对世性入手考察相对人是否具有审查义务，进而确定担保合同效力。〔(
+  ls-type:: annotation
+  hl-page:: 5
+  id:: 6260fc4a-0925-4c9c-97f3-936fc76629a1
