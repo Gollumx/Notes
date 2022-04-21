@@ -3,7 +3,7 @@
   :block/updated-at 1649696165950}
  {:block/name "8-沈朝晖：授权股份制的体系构造——兼评 2021 年《公司法》（修订草案）相关规定 - 好文@annote",
   :block/created-at 1650440325212,
-  :block/updated-at 1650440325212}
+  :block/updated-at 1650443645449}
  {:block/name "@《民法典》第641条(所有权保留买卖)评注",
   :block/created-at 1650268750631,
   :block/updated-at 1650280164557}
@@ -15,7 +15,10 @@
   :block/updated-at 1650365907222}
  {:block/name "@公司关联担保三大类型的效力解释",
   :block/created-at 1650248604892,
-  :block/updated-at 1650252230528}
+  :block/updated-at 1650512423353}
+ {:block/name "@公司对外担保制度的规范逻辑解析",
+  :block/created-at 1650518007707,
+  :block/updated-at 1650526990393}
  {:block/name "@所有权保留买卖的体系性反思——担保构成、所有权构成及合同构成的纠葛与梳理",
   :block/created-at 1650338761706,
   :block/updated-at 1650365651695}
@@ -55,6 +58,12 @@
  {:block/name "apr 20th, 2022",
   :block/created-at 1650384001529,
   :block/updated-at 1650431618362}
+ {:block/name "apr 21st, 2022",
+  :block/created-at 1650471152634,
+  :block/updated-at 1650531076833}
+ {:block/name "apr 22nd, 2022",
+  :block/created-at 1650556801600,
+  :block/updated-at 1650557372309}
  {:block/name "b",
   :block/created-at 1649693905136,
   :block/updated-at 1649693905136}
@@ -66,7 +75,7 @@
   :block/updated-at 1649693905136}
  {:block/name "contents",
   :block/created-at 1649693905136,
-  :block/updated-at 1650348403050}
+  :block/updated-at 1650532142416}
  {:block/name "doing",
   :block/created-at 1649693905136,
   :block/updated-at 1649693905136}
@@ -85,6 +94,9 @@
  {:block/name "hls__公司关联担保三大类型的效力解释_曾大鹏_1650248692903_0",
   :block/created-at 1650249794544,
   :block/updated-at 1650249794544}
+ {:block/name "hls__公司对外担保制度的规范逻辑...司法》第16条属性认识展开_甘培忠_1650520776793_0",
+  :block/created-at 1650520787633,
+  :block/updated-at 1650520787633}
  {:block/name "hls__公司法对比_1650246169451_0",
   :block/created-at 1650246591436,
   :block/updated-at 1650246591436}
@@ -136,7 +148,7 @@
   :block/updated-at 1649693905136}
  {:block/name "《公司法草案》",
   :block/created-at 1650246021003,
-  :block/updated-at 1650247100032}
+  :block/updated-at 1650536792603}
  {:block/name "《担保物权研究》",
   :block/created-at 1650183048777,
   :block/updated-at 1650183340462}
@@ -155,6 +167,9 @@
  {:block/name "公司对外担保",
   :block/created-at 1650247044409,
   :block/updated-at 1650247044409}
+ {:block/name "公司章程",
+  :block/created-at 1650523609182,
+  :block/updated-at 1650523609182}
  {:block/name "公示",
   :block/created-at 1650106539452,
   :block/updated-at 1650106539452}
@@ -170,6 +185,9 @@
  {:block/name "商行为",
   :block/created-at 1649758274660,
   :block/updated-at 1649758274660}
+ {:block/name "善意取得",
+  :block/created-at 1650531076817,
+  :block/updated-at 1650531076817}
  {:block/name "意思表示",
   :block/created-at 1649930733527,
   :block/updated-at 1649930733527}
@@ -179,18 +197,24 @@
  {:block/name "所有权变动",
   :block/created-at 1650105931257,
   :block/updated-at 1650105931257}
+ {:block/name "抵押权",
+  :block/created-at 1650531001044,
+  :block/updated-at 1650531001044}
  {:block/name "抵押权的设立",
   :block/created-at 1650184001211,
   :block/updated-at 1650184001211}
  {:block/name "担保物权",
   :block/created-at 1650348388622,
   :block/updated-at 1650348388622}
+ {:block/name "授权资本制",
+  :block/created-at 1650443517386,
+  :block/updated-at 1650443517386}
  {:block/name "案例分析",
   :block/created-at 1649736179970,
   :block/updated-at 1649736179970}
  {:block/name "案例分析大赛",
   :block/created-at 1650125133885,
-  :block/updated-at 1650433911030}
+  :block/updated-at 1650537597893}
  {:block/name "模版",
   :block/created-at 1649695145934,
   :block/updated-at 1649868778153}
@@ -203,6 +227,9 @@
  {:block/name "法学方法论",
   :block/created-at 1649860028339,
   :block/updated-at 1649860028339}
+ {:block/name "法定代表人",
+  :block/created-at 1650522631937,
+  :block/updated-at 1650522631937}
  {:block/name "法律行为",
   :block/created-at 1649845121241,
   :block/updated-at 1649845121241}
