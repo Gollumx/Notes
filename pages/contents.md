@@ -29,6 +29,7 @@
 - # Resources
 	- {{query #Resources}}
 	  query-table:: true
+	  query-properties:: [:block :tags]
 	- [[《公司法草案》]]
 	- [[《担保物权研究》]]
 	- [[《法学方法论》]]
