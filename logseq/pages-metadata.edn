@@ -63,7 +63,10 @@
   :block/updated-at 1650531076833}
  {:block/name "apr 22nd, 2022",
   :block/created-at 1650556801600,
-  :block/updated-at 1650557372309}
+  :block/updated-at 1650632381247}
+ {:block/name "apr 23rd, 2022",
+  :block/created-at 1650690997307,
+  :block/updated-at 1650717370191}
  {:block/name "b",
   :block/created-at 1649693905136,
   :block/updated-at 1649693905136}
@@ -75,7 +78,7 @@
   :block/updated-at 1649693905136}
  {:block/name "contents",
   :block/created-at 1649693905136,
-  :block/updated-at 1650532142416}
+  :block/updated-at 1650711867007}
  {:block/name "doing",
   :block/created-at 1649693905136,
   :block/updated-at 1649693905136}
@@ -100,6 +103,9 @@
  {:block/name "hls__公司法对比_1650246169451_0",
   :block/created-at 1650246591436,
   :block/updated-at 1650246591436}
+ {:block/name "hls__华政讲座的素材_1650711749846_0",
+  :block/created-at 1650712067668,
+  :block/updated-at 1650712067668}
  {:block/name
   "hls__周_2022_所有权保留买卖的体系性反思——担保构成、所有权构成及合同构成的纠葛与梳理_1650351821437_0",
   :block/created-at 1650354821398,
@@ -116,6 +122,9 @@
  {:block/name "hls__第五届“东方獬豸杯”模拟法庭大赛初（复）赛案例_1650177588117_0",
   :block/created-at 1650196213671,
   :block/updated-at 1650196213671}
+ {:block/name "hls__论正常经营买受人规则_王利明_1650595360434_0",
+  :block/created-at 1650595820869,
+  :block/updated-at 1650595820869}
  {:block/name "hls__高_2020_《民法典》视野下所有权保留交易的法律构成_1650339158907_0",
   :block/created-at 1650339577322,
   :block/updated-at 1650343193669}
@@ -148,13 +157,16 @@
   :block/updated-at 1649693905136}
  {:block/name "《公司法草案》",
   :block/created-at 1650246021003,
-  :block/updated-at 1650536792603}
+  :block/updated-at 1650557699063}
  {:block/name "《担保物权研究》",
   :block/created-at 1650183048777,
   :block/updated-at 1650183340462}
  {:block/name "《法学方法论》",
   :block/created-at 1649866135591,
   :block/updated-at 1650096455796}
+ {:block/name "《论正常经营买受人规则》",
+  :block/created-at 1650594787070,
+  :block/updated-at 1650631219362}
  {:block/name "买卖合同",
   :block/created-at 1649736725435,
   :block/updated-at 1650348555062}
@@ -218,6 +230,9 @@
  {:block/name "模版",
   :block/created-at 1649695145934,
   :block/updated-at 1649868778153}
+ {:block/name "正常经营活动买受人",
+  :block/created-at 1650593738837,
+  :block/updated-at 1650593738837}
  {:block/name "民法",
   :block/created-at 1649845251345,
   :block/updated-at 1649845251345}
@@ -249,5 +264,8 @@
   :block/created-at 1649773132813,
   :block/updated-at 1649773132813}
  {:block/name "财务资助",
-  :block/created-at 1650246631478, 
-  :block/updated-at 1650246631478}]
+  :block/created-at 1650246631478,
+  :block/updated-at 1650246631478}
+ {:block/name "📝正常经营活动买受人和商主体",
+  :block/created-at 1650632381246, 
+  :block/updated-at 1650632381246}]
