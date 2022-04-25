@@ -67,6 +67,12 @@
  {:block/name "apr 23rd, 2022",
   :block/created-at 1650690997307,
   :block/updated-at 1650717370191}
+ {:block/name "apr 24th, 2022",
+  :block/created-at 1650772614285,
+  :block/updated-at 1650794770570}
+ {:block/name "apr 25th, 2022",
+  :block/created-at 1650816040464,
+  :block/updated-at 1650816040464}
  {:block/name "b",
   :block/created-at 1649693905136,
   :block/updated-at 1649693905136}
@@ -194,6 +200,12 @@
  {:block/name "合同类型的判断",
   :block/created-at 1650068170663,
   :block/updated-at 1650068170663}
+ {:block/name "商主体",
+  :block/created-at 1650794787754,
+  :block/updated-at 1650794787754}
+ {:block/name "商主体法律制度类型化思考",
+  :block/created-at 1650794770499,
+  :block/updated-at 1650804772254}
  {:block/name "商行为",
   :block/created-at 1649758274660,
   :block/updated-at 1649758274660}
@@ -266,6 +278,6 @@
  {:block/name "财务资助",
   :block/created-at 1650246631478,
   :block/updated-at 1650246631478}
- {:block/name "📝正常经营活动买受人和商主体",
+ {:block/name "📝商主体理论对正常经营活动条款的修正",
   :block/created-at 1650632381246, 
   :block/updated-at 1650632381246}]
