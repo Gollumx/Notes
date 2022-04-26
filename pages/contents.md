@@ -4,6 +4,7 @@
 	- [[✍️商主体理论对正常经营活动条款的修正]]
 - # Areas
 	- [[民法]]
+	  collapsed:: true
 		- [[所有权变动]]
 		- [[买卖契约]]
 		- [[公示]]
@@ -20,7 +21,6 @@
 		- [[所有权保留买卖]]
 		-
 	- 公司法
-	  collapsed:: true
 		- [[股权转让]]
 			- [[财务资助]]
 		- [[公司对外担保]]
@@ -30,6 +30,7 @@
 	- [[法学方法论]]
 	-
 - # Resources
+  collapsed:: true
 	- {{query #Resources}}
 	  query-table:: true
 	  query-properties:: [:block :tags]
